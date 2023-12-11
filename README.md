@@ -106,6 +106,3 @@ For any inquiries or feedback related to this project, feel free to reach out:
 
 Thank you for exploring the Netflix India static website project! This project serves as a demonstration of web development skills and showcases a simplified version of the Netflix user interface.
 
---- 
-
-Feel free to customize the content and contact information based on your preferences. If you have any further requests or modifications, let me know!
